@@ -1,4 +1,4 @@
-package mavendemo;
+package com.github.javarushcommunity.mavendemo;
 
 import com.github.javarushcommunity.mavendemo.ImageComparator;
 import com.github.romankh3.image.comparison.ImageComparisonUtil;
